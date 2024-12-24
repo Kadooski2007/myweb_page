@@ -1,0 +1,39 @@
+body{
+    background:  linear-gradient(to right,#1a1a1a,#1a1a1a,#d65a36);
+    /* background-color: #A0522D; */
+    /* background-color: #333333; */
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+#cuter h2{
+    color: #ffffff;
+    font-size: 36px;
+}
+form{
+    /* background-color: rgba(0,0,0,0.5); */
+    /* background-color: rgba(255,255,255,0.7); */
+    background-color: black;
+    padding: 20px;
+    border-radius: 10px;
+    position: relative;
+    bottom: 40px;
+}
+form label{
+    color: #ff7043;
+    font-size: 18px;
+}
+.finish:hover{
+    background-color: white;
+    color: #ff7043;
+    font-size: 19px;
+    padding: 10px 20px;
+    transition: background-color 0.3s ease;
+}
+.finish{
+    color: #ffffff;
+    background-color:#d65a36;
+}
+.brew{
+    background-color: #d65a36;
+    color: #ffffff;
+    
+}
